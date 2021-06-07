@@ -112,7 +112,7 @@ import "../localization/russian";
 import "../localization/tajik";
 import "../localization/dutch";
 import "../localization/croatian";
-"../localization/arabic";
+import "../localization/arabic";
 
 export {
   Translation,
